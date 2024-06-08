@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.153
+
+### Patch Changes
+
+- feat: sort possible bindings in invalid binding error ([#11950](https://github.com/sveltejs/svelte/pull/11950))
+
 ## 5.0.0-next.152
 
 ### Patch Changes
